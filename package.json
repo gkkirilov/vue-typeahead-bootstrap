@@ -19,9 +19,6 @@
   "bugs": {
     "url": "https://github.com/gkkirilov/vue-typeahead-bootstrap/issues"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "license": "MIT",
   "author": "gkkirilov",
   "main": "src/components/VueTypeaheadBootstrap.vue",
