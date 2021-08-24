@@ -1,5 +1,5 @@
 {
-  "name": "vue-typeahead-bootstrap",
+  "name": "vue-typeahead-bootstrap-accepts-pull-requests",
   "version": "2.11.1",
   "private": false,
   "description": "A typeahead/autocomplete component for Vue 2 using Bootstrap 4",
@@ -23,7 +23,7 @@
     "registry":"https://npm.pkg.github.com"
   },
   "license": "MIT",
-  "author": "Matt Zollinhofer <vue.typeahead.bootstrap@gmail.com>",
+  "author": "gkkirilov",
   "main": "src/components/VueTypeaheadBootstrap.vue",
   "scripts": {
     "serve": "vue-cli-service serve",
